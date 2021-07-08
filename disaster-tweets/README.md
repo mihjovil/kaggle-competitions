@@ -1,2 +1,2 @@
 # Disaster Tweets competition
-As for now it is just an approach I did under 50 minutes in a tech interview. In the near future I will properly come up with a full approach to this challenge and a proper solution with all the necessary steps that need to be taken in a Machine Learning project.
+The idea of this project is to predict when a tweet is referring to a disaster or not. The dataset comes form a Kaggle competition and it has a train and test partition. Using NLP to convert the tweets into sequences I will check which statistical model gives the best performance and compare it to different Deep learning approaches. 
